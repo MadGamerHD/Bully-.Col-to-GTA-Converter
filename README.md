@@ -3,7 +3,7 @@
 A simple Python Tkinter GUI application that converts Bully collision (`.col`) files into a GTA III/VC/San Andreas compatible `.col` format (COL2), fixing range check issues, trimming oversized data, and minimizing duplicate/corrupt geometry.
 
 ---
-✅ Your tool does support conversion from Bully .col files to GTA-compatible .col (COL2) format.
+✅ This tool does support conversion from Bully .col files to GTA-compatible .col (COL2) format.
 
 ⚠️ But the converted files may not be 100% perfect or "clean," just usable — meaning they're good enough to load in Blender or be edited further.
 
