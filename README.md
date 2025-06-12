@@ -22,24 +22,6 @@ A simple Python Tkinter GUI application that converts Bully collision (`.col`) f
 
 ---
 
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/bully-col-converter.git
-   cd bully-col-converter
-   ```
-2. (Optional) Create a virtual environment:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Unix/macOS
-   venv\Scripts\activate     # Windows
-   ```
-
----
-
 ## Usage
 
 1. Run the converter:
